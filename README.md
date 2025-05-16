@@ -2,11 +2,11 @@
 <h3 align="center">Software Developer & Cyber Security Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhlHk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MohAitMesskine&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhlHk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohAitMesskine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -19,12 +19,12 @@
 
 <table align="center">
   <tr>
-    <td><strong>Languages:</strong></td>
-    <td>Spring Boot, Laravel, Django, Taillwind Css , React , Vue Js</td>
+    <td><strong>Languages & Frameworks:</strong></td>
+    <td>Java (Spring Boot), PHP (Laravel), Python (Django), Tailwind CSS, React, Vue.js</td>
   </tr>
   <tr>
     <td><strong>Learning:</strong></td>
-    <td> Angular</td>
+    <td>Angular</td>
   </tr>
   <tr>
     <td><strong>Interests:</strong></td>
@@ -48,8 +48,8 @@
 ## 💻 Projects
 
 <p align="center">
-  <a href="https://github.com/BhlHk/ServiceHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhlHk&repo=ServiceHub&theme=tokyonight&hide_border=true" alt="ServiceHub" />
+  <a href="https://github.com/MohAitMesskine/ServiceHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohAitMesskine&repo=ServiceHub&theme=tokyonight&hide_border=true" alt="ServiceHub" />
   </a>
 </p>
 
@@ -74,13 +74,13 @@
 ## 📊 Development Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhlHk&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohAitMesskine&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhlHk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohAitMesskine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 ## 🌱 Professional Development
@@ -95,13 +95,13 @@
 ## 🌐 Connect Professionally
 
 <p align="center">
-  <a href="https://github.com/BhlHk">
+  <a href="https://github.com/MohAitMesskine">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:bahyoul.amine@gmail.com">
+  <a href="mailto:aitmesskine.mohamed@gmail.cm">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/aminebahyoul">
+  <a href="https://linkedin.com/in/MohamedAitMesskine">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -109,7 +109,7 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BhlHk&theme=tokyonight&no-frame=true&row=1" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohAitMesskine&theme=tokyonight&no-frame=true&row=1" alt="trophy" />
 </p>
 
 <p align="center">
