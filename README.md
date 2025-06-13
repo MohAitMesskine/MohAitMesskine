@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Mohamed Ait Messkine</h1>
-<h3 align="center">Software Developer & Cyber Security Enthusiast</h3>
+<h3 align="center">Software Developer & DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohAitMesskine&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -13,7 +13,7 @@
 
 ## 📋 Professional Summary
 
-> Dedicated software developer with a focus on machine learning and web technologies. Combining strong analytical skills with technical expertise to develop efficient, scalable solutions. Passionate about cyber security and implementing robust, secure applications.
+> Dedicated software developer with a focus on machine learning and web technologies. Combining strong analytical skills with technical expertise to develop efficient, scalable solutions. Passionate about DevOps practices and implementing robust, secure applications.
 
 ## 🔧 Technical Expertise
 
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><strong>Interests:</strong></td>
-    <td>Machine Learning, Web Development, Cyber Security</td>
+    <td>Machine Learning, Web Development, DevOps</td>
   </tr>
   <tr>
     <td><strong>Working on:</strong></td>
@@ -50,6 +50,10 @@
 <p align="center">
   <a href="https://github.com/MohAitMesskine/ServiceHub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohAitMesskine&repo=ServiceHub&theme=tokyonight&hide_border=true" alt="ServiceHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-ait-messkine-mohamed.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohAitMesskine&repo=portfolio-ait-messkine-mohamed&theme=tokyonight&hide_border=true" alt="Portfolio" />
   </a>
 </p>
 
@@ -82,7 +86,7 @@
   <li>📌 Currently enhancing Spring Boot & Angular expertise for robust enterprise applications</li>
   <li>📌 Exploring advanced machine learning techniques for data analysis and pattern recognition</li>
   <li>📌 Focusing on best practices in software architecture and design patterns</li>
-  <li>📌 Studying cyber security methodologies and secure coding practices</li>
+  <li>📌 Studying DevOps methodologies and secure coding practices</li>
 </ul>
 
 ## 🌐 Connect Professionally
@@ -91,10 +95,10 @@
   <a href="https://github.com/MohAitMesskine">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:aitmesskine.mohamed@gmail.cm">
+  <a href="mailto:aitmesskine.mohamed@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/Mohamed Ait Messkine">
+  <a href="https://linkedin.com/in/MohamedAitMesskine">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -106,5 +110,5 @@
 </p>
 
 <p align="center">
-  <sub>💼 Software Developer | 🔐 Cyber Security Enthusiast | 🤖 ML Practitioner</sub>
+  <sub>💼 Software Developer | ⚙️ DevOps Enthusiast | 🤖 ML Practitioner</sub>
 </p>
