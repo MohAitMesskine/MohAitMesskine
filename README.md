@@ -48,7 +48,7 @@
 ## 💻 Projects
 
 <p align="center">
-  <a href="https://github.com/MohAitMesskine/ServiceHub">
+  <a href="https://github.com/MohAitMesskine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohAitMesskine&repo=ServiceHub&theme=tokyonight&hide_border=true" alt="ServiceHub" />
   </a>
   &nbsp;&nbsp;
