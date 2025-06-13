@@ -48,12 +48,8 @@
 ## 💻 Projects
 
 <p align="center">
-  <a href="https://github.com/MohAitMesskine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohAitMesskine&repo=ServiceHub&theme=tokyonight&hide_border=true" alt="ServiceHub" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://portfolio-ait-messkine-mohamed.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohAitMesskine&repo=portfolio-ait-messkine-mohamed&theme=tokyonight&hide_border=true" alt="Portfolio" />
+    <img src="https://vaultinum.com/wp-content/uploads/2025/02/0458a9f1-e149-4037-b9aa-aa4b4fb53c25_propriete-intellectuelle-code-source-protection-compressed.jpg" alt="Portfolio" />
   </a>
 </p>
 
