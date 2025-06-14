@@ -45,11 +45,11 @@
   <li>🔹 Conducting security assessments and implementing secure coding practices</li>
 </ul>
 
-## 💻 Projects
+## 💻 Portfolio & Projects
 
 <p align="center">
   <a href="https://portfolio-ait-messkine-mohamed.vercel.app">
-    <img src="https://vaultinum.com/wp-content/uploads/2025/02/0458a9f1-e149-4037-b9aa-aa4b4fb53c25_propriete-intellectuelle-code-source-protection-compressed.jpg" alt="Portfolio" />
+    <img src="https://thumbs.dreamstime.com/b/cliquez-sur-le-bouton-avec-pointeur-de-la-main-ici-pour-web-isolement-du-site-doigt-curseur-clic-vecteur-en-cliquant-stock-164541958.jpg" alt="Portfolio" />
   </a>
 </p>
 
