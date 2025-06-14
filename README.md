@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <td><strong>Languages & Frameworks:</strong></td>
-    <td>Java (Spring Boot), PHP (Laravel), Python (Django), Tailwind CSS, React, Vue.js</td>
+    <td>Java (Spring Boot), PHP (Laravel), Python (Django), Tailwind CSS(CSS), React.js, Vue.js</td>
   </tr>
   <tr>
     <td><strong>Learning:</strong></td>
