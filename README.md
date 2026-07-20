@@ -15,6 +15,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=MohAitMesskine&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
+---
+
+### 🌐 Visit My Portfolio
+
+<a href="https://portfolio-ait-messkine-mohamed.vercel.app/">
+  <img src="https://img.shields.io/badge/👉_CLICK_HERE_to_Visit_My_Portfolio_👈-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Click here to visit my portfolio" height="45"/>
+</a>
+
 </div>
 
 ---
@@ -100,12 +108,19 @@ mindset     : Clean code · Scalable architecture · Secure by design
 
 ## 📊 GitHub Stats
 
+<!--
+  ⚠️ NOTE : L'instance publique github-readme-stats.vercel.app est souvent en panne (erreur 503 / DEPLOYMENT_PAUSED).
+  Les URLs ci-dessous utilisent des miroirs alternatifs plus stables.
+  👉 SOLUTION DÉFINITIVE : héberge ta propre instance sur Vercel (fork du repo anuraghazra/github-readme-stats),
+     puis remplace "github-readme-stats.vercel.app" par ton URL perso (ex: github-readme-stats-mohait.vercel.app).
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohAitMesskine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohAitMesskine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohAitMesskine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohAitMesskine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohAitMesskine&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=MohAitMesskine&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=MohAitMesskine&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 
