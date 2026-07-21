@@ -2,127 +2,178 @@
 
 # 👨‍💻 Mohamed Ait Messkine
 
-### Software Developer • DevOps Enthusiast • ML Practitioner
+### Software Developer • DevOps Enthusiast • Machine Learning Enthusiast
 
-*Building efficient, scalable, and secure applications with clean code and thoughtful architecture.*
+*Building scalable, secure, and high-performance applications with modern technologies.*
 
 <p>
-  <a href="https://portfolio-ait-messkine-mohamed.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/MohamedAitMesskine"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aitmesskine.mohamed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/MohAitMesskine"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://portfolio-ait-messkine-mohamed.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/MohamedAitMesskine">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aitmesskine.mohamed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MohAitMesskine">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MohAitMesskine&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
----
-
-### 🌐 Visit My Portfolio
-
-<a href="https://portfolio-ait-messkine-mohamed.vercel.app/">
-  <img src="https://img.shields.io/badge/👉_CLICK_HERE_to_Visit_My_Portfolio_👈-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Click here to visit my portfolio" height="45"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=MohAitMesskine&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👋 About Me
 
 ```yaml
-name        : Mohamed Ait Messkine
-role        : Software Developer & DevOps Enthusiast
-focus       : [ Machine Learning, Web Development, DevOps ]
-currently   : Building ServiceHub
-learning    : [ Angular, Advanced ML Techniques ]
-mindset     : Clean code · Scalable architecture · Secure by design
-```
+Name: Mohamed Ait Messkine
 
-> Dedicated software developer combining strong analytical skills with hands-on technical expertise to build efficient, scalable, and secure applications.
+Role:
+  - Software Developer
+  - DevOps Enthusiast
+
+Focus:
+  - Full Stack Development
+  - Machine Learning
+  - DevOps
+  - Software Architecture
+
+Currently Learning:
+  - Spring Boot
+  - Angular
+  - AI & Machine Learning
+  - Cloud Technologies
+
+Goal:
+  Build scalable, secure and maintainable software.
+```
 
 ---
 
-## 🔧 Tech Stack
+# 🚀 What I Do
 
-**Languages & Backend**
+- 💻 Full Stack Web Development
+- ⚙️ REST API Development
+- ☁️ DevOps & CI/CD
+- 🤖 Machine Learning Projects
+- 🔐 Secure Software Development
+- 📱 Cross-platform Mobile Development
+
+---
+
+# 💻 Tech Stack
+
+## Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**Frontend**
+---
+
+## Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Mobile**
+---
+
+## Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**DevOps & Tools**
+---
+
+## DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 What I Do
+# 🌱 Currently Learning
 
-| Area | Details |
-|------|---------|
-| 🤖 **Machine Learning** | Build ML-based applications focused on scalability and performance |
-| 🌐 **Web Development** | Develop responsive web apps with React, Vue, and Angular |
-| 🐍 **Data Solutions** | Implement data-driven solutions across the Python ecosystem |
-| 🔐 **Security** | Apply secure coding practices and conduct security assessments |
-
----
-
-## 🌱 Currently Growing
-
-- 📌 Deepening **Spring Boot + Angular** for enterprise-grade applications
-- 📌 Exploring advanced **ML techniques** for data analysis & recognition
-- 📌 Mastering **software architecture** and design patterns
-- 📌 Studying **DevOps methodologies** and CI/CD best practices
+- Spring Boot Ecosystem
+- Angular
+- Software Architecture
+- DevOps & CI/CD
+- Artificial Intelligence
+- Cloud Computing
 
 ---
 
-## 📌 Featured Project
+# 📌 Featured Project
 
-### 🔹 ServiceHub
-> A platform in active development. *(Add a short description, tech stack, and live/repo links here.)*
+## 🚀 ServiceHub
 
-<a href="https://github.com/MohAitMesskine"><img src="https://img.shields.io/badge/View_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+ServiceHub is a modern web platform currently under development, designed with a scalable architecture and clean code principles.
+
+### Tech Stack
+
+- Spring Boot
+- Angular
+- Docker
+- PostgreSQL
+- REST API
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 Skills
 
-<!--
-  ⚠️ NOTE : L'instance publique github-readme-stats.vercel.app est souvent en panne (erreur 503 / DEPLOYMENT_PAUSED).
-  Les URLs ci-dessous utilisent des miroirs alternatifs plus stables.
-  👉 SOLUTION DÉFINITIVE : héberge ta propre instance sur Vercel (fork du repo anuraghazra/github-readme-stats),
-     puis remplace "github-readme-stats.vercel.app" par ton URL perso (ex: github-readme-stats-mohait.vercel.app).
--->
+✅ Full Stack Development
+
+✅ REST APIs
+
+✅ Object-Oriented Programming
+
+✅ Machine Learning
+
+✅ Database Design
+
+✅ DevOps
+
+✅ Software Architecture
+
+✅ Clean Code
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohAitMesskine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohAitMesskine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" alt="Top Languages" height="170"/>
+<a href="mailto:aitmesskine.mohamed@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=MohAitMesskine&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://linkedin.com/in/MohamedAitMesskine">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohAitMesskine&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+<a href="https://portfolio-ait-messkine-mohamed.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MohAitMesskine">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -130,12 +181,8 @@ mindset     : Clean code · Scalable architecture · Secure by design
 
 <div align="center">
 
-### 💬 Let's Connect
+### ⭐ Thanks for visiting my profile!
 
-Open to collaboration, freelance work, and interesting conversations about tech.
-
-<a href="mailto:aitmesskine.mohamed@gmail.com"><img src="https://img.shields.io/badge/Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<sub>💼 Software Developer · ⚙️ DevOps Enthusiast · 🤖 ML Practitioner</sub>
+*"Code. Learn. Build. Improve."*
 
 </div>
